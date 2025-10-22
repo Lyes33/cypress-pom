@@ -13,7 +13,7 @@ L’objectif est de démontrer une structure claire, réutilisable et maintenabl
 
 ⚙️ Installation
 # Cloner le projet
-git clone https://github.com/ton-compte/ton-projet.git
+git clone https://github.com/Lyes33/cypress-pom.git
 cd ton-projet
 
 # Installer les dépendances
